@@ -1,0 +1,8 @@
+streamlit
+numpy
+nibabel
+tensorflow
+scikit-learn
+matplotlib
+scipy
+gdown
