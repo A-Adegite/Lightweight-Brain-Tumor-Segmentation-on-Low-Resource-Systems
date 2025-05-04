@@ -13,7 +13,7 @@ This project implements a lightweight 3D U-Net for brain tumor segmentation on C
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
+- Python 3.12.9
 - PyTorch
 - MONAI
 - Nibabel
